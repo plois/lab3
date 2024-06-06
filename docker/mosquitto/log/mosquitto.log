@@ -1,0 +1,31 @@
+1717646993: mosquitto version 2.0.18 starting
+1717646993: Config loaded from /mosquitto/config/mosquitto.conf.
+1717646993: Opening ipv4 listen socket on port 1883.
+1717646993: Opening ipv6 listen socket on port 1883.
+1717646993: mosquitto version 2.0.18 running
+1717646995: New connection from 172.24.0.3:55235 on port 1883.
+1717646995: Client auto-7326A8C6-13EF-8D94-835B-723B5C883983 disconnected, not authorised.
+1717646996: New connection from 172.24.0.3:59825 on port 1883.
+1717646996: Client auto-3C7CEFC7-F49C-9BD1-235E-161DB0399945 disconnected, not authorised.
+1717646998: New connection from 172.24.0.3:37319 on port 1883.
+1717646998: Client auto-9BD63EBC-76EF-3317-4EF9-3F9BA792DEA3 disconnected, not authorised.
+1717647002: New connection from 172.24.0.3:58533 on port 1883.
+1717647002: Client auto-AEEAC17E-5321-D2E1-E407-2A93B3E503E3 disconnected, not authorised.
+1717647010: New connection from 172.24.0.3:36779 on port 1883.
+1717647010: Client auto-43BF0A8B-BE7A-C87A-EE5F-C1CDC26E7874 disconnected, not authorised.
+1717647026: New connection from 172.24.0.3:56917 on port 1883.
+1717647026: Client auto-8C46FBE6-E91D-E867-7C31-A30313A411B0 disconnected, not authorised.
+1717647058: New connection from 172.24.0.3:43703 on port 1883.
+1717647058: Client auto-4BABD7BD-B98F-BEC9-2857-E8920CD944E1 disconnected, not authorised.
+1717647098: mosquitto version 2.0.18 terminating
+1717647098: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717647111: mosquitto version 2.0.18 starting
+1717647111: Config loaded from /mosquitto/config/mosquitto.conf.
+1717647111: Opening ipv4 listen socket on port 1883.
+1717647111: Opening ipv6 listen socket on port 1883.
+1717647111: mosquitto version 2.0.18 running
+1717647113: New connection from 172.31.0.3:35277 on port 1883.
+1717647113: New client connected from 172.31.0.3:35277 as auto-403C8EEF-562F-6288-1CA7-49B52D3B94FF (p2, c1, k60).
+1717647235: Client auto-403C8EEF-562F-6288-1CA7-49B52D3B94FF closed its connection.
+1717647236: mosquitto version 2.0.18 terminating
+1717647236: Saving in-memory database to /mosquitto/data//mosquitto.db.
